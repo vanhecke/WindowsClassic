@@ -1,0 +1,13 @@
+version: 1.7.30
+description:
+  Windows taskbar replacement with the classic Windows 95, 98, Me, 2000,
+  or XP style.
+homepage: https://github.com/dremin/RetroBar
+license: Apache-2.0
+notes: Make sure to install .NET Core 3.1 Desktop Runtime
+url: https://github.com/dremin/RetroBar/releases/download/v1.7.30/RetroBar.zip
+hash: 47ade4865d8aee7d73e946f2d766a9fd0e45cd17edfeff1845f6a9f541b87291
+bin: retrobar.exe
+checkver: github
+autoupdate:
+  url: https://github.com/dremin/RetroBar/releases/download/v$version/RetroBar.zip
