@@ -1,6 +1,6 @@
 version: 1.6.0.3
 description: A basic utility to bring back Classic Theme to newer versions of the Windows operating system.
-homepage: https://winclassic.boards.net/thread/456/reversibly-enable-disable-classic-simple
+homepage: https://github.com/WinClassic/SimpleClassicTheme
 license: GPL-3.0-or-later
 url: https://github.com/WinClassic/SimpleClassicTheme/releases/download/1.6.0.3/SimpleClassicTheme.exe
 hash: 8644e7d837d8e17dcaa5d35b3285e0e811752ea2a383fdd28279af6587dbcbd3
